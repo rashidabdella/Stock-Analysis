@@ -1,0 +1,9 @@
+# VBA Challenge
+## Overview of Project
+
+ The purpose of this analysis is to provide advice for Steve's parents, as he wants to expand the dataset to include the entire stock market over the last few years.
+
+## Analysis and Challenges
+
+### Loops
+ Making the loop work without making errors on VBA has been difficult. I will go over this project again and see what I have missed in creating the code. 
